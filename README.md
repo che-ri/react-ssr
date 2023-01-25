@@ -16,6 +16,6 @@ http://localhost:8000/ 에 들어가면 결과물을 볼 수 있습니다.
 React 공식문서 상 총 4가지의 방법이 있으며, 구현했던 방법은 ✔️ 해두었습니다.
 
 - [x] renderToString
-- [] renderToStaticMarkup
-- [] renderToReadableStream
-- [] renderToStaticNodeStream
+- [ ] renderToStaticMarkup
+- [ ] renderToReadableStream
+- [ ] renderToStaticNodeStream
