@@ -9,7 +9,7 @@ function App() {
   }, [list]);
 
   return (
-    <Suspense>
+    <Suspense fallback={<div>loading...</div>}>
       <div>
         <h1>count up</h1>
         <span>{cnt}</span>
